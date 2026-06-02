@@ -52,6 +52,5 @@
 ---
 ### 📫 Connect with Me
 * 📧 **Email:** vaishnavisharma2967@gmail.com
-  <br> <br>[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi2012/)  <br>
-![Website](https://img.shields.io/badge/Website-CC5500?style=for-the-badge&logo=&logoColor=white) 
+  <br> <br> [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi2012/)     ![Website](https://img.shields.io/badge/Website-CC5500?style=for-the-badge&logo=&logoColor=white) 
 
