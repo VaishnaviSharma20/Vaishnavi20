@@ -1,4 +1,9 @@
-# Hi, I'm V | Data Analyst 📊
+# Hi, I'm V 
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=F70B6A&width=435&lines=Data+Analyst;Power+BI+Specialist;Analytics+Consultant;Business+Analyst;Reporting+Analyst" alt="Typing SVG" /></a>" /></a>
+</p>
 
 <!-- GitHub Star link -->
 <p align="center">
