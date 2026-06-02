@@ -33,15 +33,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://vercel.app" alt="My GitHub Stats" width="48%">
-  <img src="https://vercel.app" alt="Top Languages" width="48%">
-</p>
-
----
-
 ### 📫 Connect with Me
 * 💼 **LinkedIn:** [://linkedin.com](https://linkedin.com)
 * 🌐 **Portfolio Website:** [yourportfolio.com](https://yourportfolio.com)
