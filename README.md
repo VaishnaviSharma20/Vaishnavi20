@@ -1,6 +1,5 @@
-<p align="center">
-<h1>Hi, I'm Vaishnavi</h1>
-</p>
+<h1 align="center"><b>Hi, I'm Vaishnavi</b></h1>
+
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=800&size=40&pause=1000&color=F70B6A&center=true&vCenter=true&width=435&lines=Data+Analyst;Power+BI+Specialist;Analytics+Consultant;Business+Analyst;Reporting+Analyst" alt="Typing SVG" /></a>
