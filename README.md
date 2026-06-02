@@ -1,4 +1,6 @@
+<p align="center">
 # Hi, I'm Vaishnavi
+</p>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=800&size=40&pause=1000&color=F70B6A&center=true&vCenter=true&width=435&lines=Data+Analyst;Power+BI+Specialist;Analytics+Consultant;Business+Analyst;Reporting+Analyst" alt="Typing SVG" /></a>
@@ -50,6 +52,6 @@
 
 ---
 ### 📫 Connect with Me
-* 💼 **LinkedIn:** [://linkedin.com](https://linkedin.com)
-* 🌐 **Portfolio Website:** [yourportfolio.com](https://yourportfolio.com)
-* 📧 **Email:** your.email@example.com
+* 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/vaishnavi2012/)
+* 🌐 **Portfolio Website:** 
+* 📧 **Email:** vaishnavisharma2967@gmail.com
