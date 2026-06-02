@@ -1,8 +1,7 @@
 # Hi, I'm V 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="<a href="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=F70B6A&center=true&vCenter=true&width=435&lines=Data+Analyst;Power+BI+Specialist;Analytics+Consultant;Business+Analyst;Reporting+Analyst" alt="Typing SVG" /></a>" alt="Typing SVG" /></a>" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=800&size=40&pause=1000&color=F70B6A&center=true&vCenter=true&width=435&lines=Data+Analyst;Power+BI+Specialist;Analytics+Consultant;Business+Analyst;Reporting+Analyst" alt="Typing SVG" /></a>
 </p>
 
 <!-- GitHub Star link -->
