@@ -1,5 +1,5 @@
 <p align="center">
-# Hi, I'm Vaishnavi
+<h1>Hi, I'm Vaishnavi</h1>
 </p>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
