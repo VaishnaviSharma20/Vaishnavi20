@@ -4,14 +4,16 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=800&size=40&pause=1000&color=F70B6A&center=true&vCenter=true&width=435&lines=Data+Analyst;Power+BI+Specialist;Analytics+Consultant;Business+Analyst;Reporting+Analyst" alt="Typing SVG" /></a>
 </p>
 
+
+
+> **Business-driven data analyst** translating complex datasets into actionable growth strategies. Experienced in pipeline automation, interactive dashboard design, and executive stakeholder reporting.
+
+---
 <!-- GitHub Star link -->
 <p align="center">
   <a href="https://stars.github.com/profiles/denvercoder1/">
     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
 </p>
-
-> **Business-driven data analyst** translating complex datasets into actionable growth strategies. Experienced in pipeline automation, interactive dashboard design, and executive stakeholder reporting.
-
 ---
 
 ### 🛠️ Technical Stack & Tools
