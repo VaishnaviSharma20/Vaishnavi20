@@ -20,17 +20,16 @@
 
 ---
 
-### 🚀 Highlighted Projects
+### 🚀 Highlighted ## ⭐️ More Projects
 
-#### 📈 [E-Commerce Customer Churn Analysis](LINK_TO_REPO)
-* **Objective:** Identify friction points causing a 14% drop in quarterly user retention.
-* **Tech Stack:** Python, PostgreSQL, Power BI.
-* **Impact:** Isolated three critical cart-abandonment triggers, saving an estimated $42k in annualized revenue through recommended targeted marketing campaigns.
-
-#### 🛒 [Supply Chain Optimization Dashboard](LINK_TO_REPO)
-* **Objective:** Streamline multi-warehouse inventory levels to reduce holding costs.
-* **Tech Stack:** SQL, Tableau, Excel.
-* **Impact:** Automated weekly data ingestion pipelines, cutting inventory evaluation processing times by 12 hours per week.
+<table>
+  <tbody>
+    <tr>
+      <td><a href="-"><b>🚀 Sales Dashboard</b></a></td>
+      <td>Awesome sales dashbaord.</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
