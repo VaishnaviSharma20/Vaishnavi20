@@ -20,7 +20,7 @@
 
 ---
 
-### 🚀 Highlighted ## ⭐️ More Projects
+🚀 Highlighted Projects
 
 <table>
   <tbody>
