@@ -1,8 +1,9 @@
 # Hi, I'm V | Data Analyst 📊
 
+<!-- GitHub Star link -->
 <p align="center">
-  <img src="https://shields.io" alt="Status">
-  <img src="https://shields.io" alt="Certification">
+  <a href="https://stars.github.com/profiles/denvercoder1/">
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
 </p>
 
 > **Business-driven data analyst** translating complex datasets into actionable growth strategies. Experienced in pipeline automation, interactive dashboard design, and executive stakeholder reporting.
