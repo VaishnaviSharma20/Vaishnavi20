@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] | Data Analyst 📊
+# Hi, I'm V | Data Analyst 📊
 
 <p align="center">
   <img src="https://shields.io" alt="Status">
