@@ -51,6 +51,8 @@
 
 ---
 ### 📫 Connect with Me
-* 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/vaishnavi2012/)
+<a href="https://www.linkedin.com/in/vaishnavi2012/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
 * 🌐 **Portfolio Website:** 
 * 📧 **Email:** vaishnavisharma2967@gmail.com
