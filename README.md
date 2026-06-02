@@ -1,12 +1,12 @@
-# Hi, I'm V 
+# Hi, I'm Vaishnavi
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=800&size=40&pause=1000&color=F70B6A&center=true&vCenter=true&width=435&lines=Data+Analyst;Power+BI+Specialist;Analytics+Consultant;Business+Analyst;Reporting+Analyst" alt="Typing SVG" /></a>
 </p>
 
+--- 
 
-
-> **Business-driven data analyst** translating complex datasets into actionable growth strategies. Experienced in pipeline automation, interactive dashboard design, and executive stakeholder reporting.
+> **Business-driven analyst** translating complex datasets into actionable growth strategies. Experienced in pipeline automation, interactive dashboard design, and executive stakeholder reporting.
 
 ---
 <!-- GitHub Star link -->
@@ -41,7 +41,6 @@
 ---
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
