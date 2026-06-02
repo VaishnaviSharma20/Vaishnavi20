@@ -23,8 +23,8 @@
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | `Python (Pandas, NumPy, Scikit-Learn)`, `SQL (PostgreSQL, MySQL, BigQuery)`, `R` |
-| **BI & Visualization** | `Power BI`, `Tableau`, `Excel (Advanced Pivot Tables, VBA)`, `Looker Studio` |
-| **Data Infrastructure** | `ETL Pipelines`, `Snowflake`, `dbt`, `Git/GitHub`, `AWS (S3)` |
+| **BI & Visualization** | `Power BI`, `Excel (Advanced Pivot Tables, VBA)` |
+| **Data Infrastructure** | `ETL Pipelines`, `Git/GitHub`, `AWS (S3)` |
 
 ---
 
